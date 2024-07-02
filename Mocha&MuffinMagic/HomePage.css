@@ -1,0 +1,176 @@
+body{
+    background-color: rgb(165, 114, 42);
+}
+i{
+    font-size: 50px;
+    color: white;
+    position: relative;
+    top: 25px;
+    left: 10px;
+}
+h3{
+    color: white;
+    font-family: "Anton", sans-serif;
+    font-weight: 50;
+    padding-left: 10px;
+}
+header{
+    background-image: linear-gradient(to bottom,#543310,rgb(165, 114, 42),#543310,rgb(165, 114, 42),#543310);
+    border-color: white;
+    border-style: solid;
+    border-radius: 50px;
+    height: 170px;
+    width: 1500px;
+
+}
+.dc1{
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+ul{
+    font-family: "Anton", sans-serif;
+    position: relative;
+    bottom: 90px;
+    display: flex;
+    margin: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+li{
+    list-style-type: none;
+    font-size: x-large;
+    color:white;
+    transition-duration: .5s;
+}
+.ac1{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-left: 200px;
+    padding-right: 100px;
+    font-size: large;
+    text-decoration-line: none;
+}
+li:hover{
+    border-bottom: 3px solid white;
+    box-shadow: 5px 10px 20px;
+}
+li:active{
+    background-color: rgb(147, 102, 12);
+}
+img{
+    height: 500px;
+    width: 1500px;
+
+}
+.dc2{
+    border-radius: 50px;
+    border-style: solid;
+    border-color: white;
+    background-image: url("https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg?size=626&ext=jpg");
+    height:500px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    display: grid;
+    place-content: center;
+}
+.dc3{
+    color: white;
+    background-color: #543310;
+    font-size:large;
+    border-radius: 50px;
+    border-style: solid;
+    position: relative;
+    top: 200px;
+}
+.ac2{
+    text-align: center;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.dc4{
+    background-color: #543310;
+    color: white;
+    font-size: x-large;
+    font-family: "Anton", sans-serif;
+    border:  solid white;
+    border-radius: 50px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.dc5{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img1{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    border: solid white;
+}
+.img2{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    border: solid white;
+}
+.img3{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    border: solid white;
+}
+.img4{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    border: solid white;
+}
+.ac3{
+    background-color: #512d07;
+    color: white;
+    border: solid white;
+    border-radius: 50px;
+    text-decoration-line: none;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.dc6{
+    font-size: x-large;
+    font-family: "Anton", sans-serif;
+    color: white;
+    padding-left: 30px;
+    padding-right: 1000px;
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+.ac4{
+    color: white;
+    text-decoration-line: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 15px;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    padding-left: 15px;
+}
+.dc7{
+    padding-right: 50px;
+    font-size: x-large;
+}
+.dc8{
+    display: flex;
+    justify-content: space-between;
+    background-color: #543310;
+    border:  solid white;
+    border-radius: 50px;
+
+}
